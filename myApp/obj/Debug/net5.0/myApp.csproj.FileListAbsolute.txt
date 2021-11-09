@@ -1,0 +1,16 @@
+/home/jbpi8607/keyboard/myApp/bin/Debug/net5.0/myApp
+/home/jbpi8607/keyboard/myApp/bin/Debug/net5.0/myApp.deps.json
+/home/jbpi8607/keyboard/myApp/bin/Debug/net5.0/myApp.runtimeconfig.json
+/home/jbpi8607/keyboard/myApp/bin/Debug/net5.0/myApp.runtimeconfig.dev.json
+/home/jbpi8607/keyboard/myApp/bin/Debug/net5.0/myApp.dll
+/home/jbpi8607/keyboard/myApp/bin/Debug/net5.0/ref/myApp.dll
+/home/jbpi8607/keyboard/myApp/bin/Debug/net5.0/myApp.pdb
+/home/jbpi8607/keyboard/myApp/obj/Debug/net5.0/myApp.csproj.AssemblyReference.cache
+/home/jbpi8607/keyboard/myApp/obj/Debug/net5.0/myApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/jbpi8607/keyboard/myApp/obj/Debug/net5.0/myApp.AssemblyInfoInputs.cache
+/home/jbpi8607/keyboard/myApp/obj/Debug/net5.0/myApp.AssemblyInfo.cs
+/home/jbpi8607/keyboard/myApp/obj/Debug/net5.0/myApp.csproj.CoreCompileInputs.cache
+/home/jbpi8607/keyboard/myApp/obj/Debug/net5.0/myApp.dll
+/home/jbpi8607/keyboard/myApp/obj/Debug/net5.0/ref/myApp.dll
+/home/jbpi8607/keyboard/myApp/obj/Debug/net5.0/myApp.pdb
+/home/jbpi8607/keyboard/myApp/obj/Debug/net5.0/myApp.genruntimeconfig.cache
